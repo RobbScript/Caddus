@@ -1,5 +1,4 @@
 from Dados import *
-
 funciopt4 = 'Error'
 print('CADDUS (Beta)')
 quem1 = (str(input('quem é você? ')))
