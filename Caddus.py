@@ -34,7 +34,7 @@ while True:
         funcionalidade = 'Ok'
         print('Caddus \\ Versão Beta 1.0.4')
         print('OS primário: Linux (Debian "Bullseye")')
-        print('Tipo de sistema: CDA (windows)')
+        print('SGDA version: SGDA 1.0 (Adam)')
         print('último update: 04/abr/22 19:35')
         print('Systemas de usuário: OK')
         print('Opções: OK')
