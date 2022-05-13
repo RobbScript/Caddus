@@ -1,4 +1,3 @@
-from xml.dom.expatbuilder import parseString
 from Dados import *
 from pygame import *
 import time
